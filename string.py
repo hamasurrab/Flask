@@ -2,7 +2,7 @@
 
 
 fname="hamas"
-lname="chaudhary"
+lname="chaudhary "
 chose="cric"
 
 # slicing----method
