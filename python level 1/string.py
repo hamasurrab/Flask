@@ -17,5 +17,5 @@ print(f"Mr.{fname}_{lname} {chose}")
 
 
 # spilit---------->>>>method
-my_string="today kohli made is 71 century"
+my_string="today kohli made his 71 century"
 print(my_string.split("o"))
